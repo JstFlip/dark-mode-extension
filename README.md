@@ -1,2 +1,2 @@
 # dark-mode-extension
-DarkMode - Chrome extension
+Chrome extension
